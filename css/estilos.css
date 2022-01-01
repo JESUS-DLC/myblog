@@ -10,3 +10,8 @@ div{
     border: 5px solid aqua;
     width: 200px;
 }
+
+header{
+    background-color: red;
+    color: white;
+}
