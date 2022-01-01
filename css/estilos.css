@@ -2,4 +2,11 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: aquamarine;
+    background-color: black;
+}
+
+div{
+    margin: 10px auto;
+    border: 5px solid aqua;
+    width: 200px;
 }
