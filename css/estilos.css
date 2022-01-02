@@ -12,6 +12,25 @@ div{
 }
 
 header{
-    background-color: red;
+    background-color: black;
     color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 100px;
+}
+
+nav{
+    width: 500px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li{
+    
 }
