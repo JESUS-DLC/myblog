@@ -11,3 +11,4 @@ Esto solo es un readme de ejemplo **No es real hijo**
 
 *CREADO POR DLC DEVELOPER
 *incluye ejemplos solo en widonws pa pero sirve en linux
+*disponible para todas las edades
