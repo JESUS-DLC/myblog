@@ -9,10 +9,6 @@ Un blog increible para comprender el funcionamiento de GIT & GITHUB en la plataf
 
 Esto solo es un readme de ejemplo **No es real hijo**
 
-<<<<<<< HEAD
-*CREADO POR DLC DEVELOPER
-=======
 *CREADO POR DLC DEVELOPER
 *incluye ejemplos solo en widonws pa pero sirve en linux
 *disponible para todas las edades
->>>>>>> readme-mejorado
